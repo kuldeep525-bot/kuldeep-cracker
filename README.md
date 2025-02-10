@@ -1,4 +1,4 @@
 # kuldeep-cracker
-this is my first git respositroy
+digital clock (using html,css javascript)
 <br>
 AUTHOR- KULDEEP KUMAR
